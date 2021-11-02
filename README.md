@@ -1,1 +1,3 @@
-"aula-git1" 
+Primeiro para o Git:
+
+APP de perguntas e Respostas.
